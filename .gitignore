@@ -1,0 +1,11 @@
+﻿node_modules/
+.env
+dist/
+build/
+.vscode/
+*.log
+ios/Pods/
+android/.gradle/
+
+.next/
+out/
