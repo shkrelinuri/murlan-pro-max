@@ -1,15 +1,15 @@
 # Murlan Pro
 
-A cross-platform multiplayer card game application inspired by Albanian Murlan rules.
+Murlan Pro is a multiplayer card game project based on Albanian Murlan rules. The repo has a Node.js/Socket.IO server and a Flutter app shell for iOS and Android.
 
 This workspace includes:
 
 - `server/` — Node.js + Socket.IO authoritative game backend
 - `client/` — Flutter app shell for iOS and Android
 
-## Current status
+## Current state
 
-This is the initial scaffold for the project. The backend is set up with a server-authoritative game engine shape and the Flutter app has a starter shell.
+The backend is organized around server-owned game rules, while the Flutter app is still a starting shell.
 
 ## Important rule
 
